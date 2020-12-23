@@ -22,6 +22,7 @@ public class Application extends JFrame{
 	private JPanel contentPane;
 	
 	Render renderer;
+        System.out.println("t'es");
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
